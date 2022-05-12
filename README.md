@@ -1,3 +1,4 @@
+![erich banner](https://github.com/erichintime/erichintime/blob/e5af880ad74e1b5e29e70db4f85d679c37ee7f21/images/cover.png =x200)
 ### Hi there 👋
 
 <!--
